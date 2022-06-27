@@ -1,0 +1,18 @@
+.form{
+    width: 600px;
+    margin: 0 auto;
+    background-color: darkgray;
+    padding-left: 100px;
+    
+}
+
+h3{
+    font-family: calibri;
+ 
+}
+
+input{
+    width: 400px;
+    padding-left: 10px;
+   
+}
